@@ -25,7 +25,7 @@ The following technologies were employed in building SummarEase.Ai:
 
 ## Interactive Text Chunk Visualization
 
-![Interactive Text Chunk Visualization](https://github.com/Akshat2634/SummarEase.Ai/assets/72593375/5054e6f6-cace-43e8-9e66-682f40cab6d6)
+![Screenshot 2024-01-31 at 9 43 33 AM](https://github.com/Akshat2634/SummarEase.Ai/assets/72593375/9a5c19f5-5ce9-412c-9537-ff7dbf916c5f)
 *Caption: Example of Interactive Text Chunk Visualization*
 
 
