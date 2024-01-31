@@ -15,7 +15,10 @@ The code in this repository powers SummarEase.Ai, providing functionalities for 
 The following technologies were employed in building SummarEase.Ai:
 - [OpenAI](https://openai.com/)
 - [Streamlit](https://streamlit.io/)
-- [LangChain](https://github.com/Langchain/langchain-community)
+- [LangChain](https://github.com/Langchain/langchain-community)\
+
+## Screenshot
+
 
 ## Usage
 1. **Select Language Model:** Choose between GPT-3.5 and GPT-4 from the sidebar.
