@@ -18,7 +18,7 @@ The following technologies were employed in building SummarEase.Ai:
 - [LangChain](https://github.com/Langchain/langchain-community)\
 
 ## Screenshot
-
+![Screenshot 2024-01-31 at 12 50 14 AM](https://github.com/Akshat2634/SummarEase.Ai/assets/72593375/858d1fe9-730e-4615-bd07-3a9594853f68)
 
 ## Usage
 1. **Select Language Model:** Choose between GPT-3.5 and GPT-4 from the sidebar.
