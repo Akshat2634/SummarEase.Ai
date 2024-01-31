@@ -15,14 +15,14 @@ The code in this repository powers SummarEase.Ai, providing functionalities for 
 The following technologies were employed in building SummarEase.Ai:
 - [OpenAI](https://openai.com/)
 - [Streamlit](https://streamlit.io/)
-- [LangChain](https://github.com/Langchain/langchain-community)\
+- [LangChain](https://github.com/Langchain/langchain-community)
 
 ## Screenshot
 ![Screenshot 2024-01-31 at 12 50 14 AM](https://github.com/Akshat2634/SummarEase.Ai/assets/72593375/858d1fe9-730e-4615-bd07-3a9594853f68)
 
 ## Usage
 1. **Select Language Model:** Choose between GPT-3.5 and GPT-4 from the sidebar.
-2. **Select Chain Type:** Choose the summarization chain type - options include "map_reduce," "stuff," and "redefine."
+2. **Select Chain Type:** Choose the summarization chain type - options include "map_reduce," "stuff," and "refine."
 3. **Adjust Chunk Size and Overlap:** Use sliders to set the chunk size and overlap for document processing.
 4. **Debug Chunk Size (Optional):** Check the box for debugging chunk size.
 5. **Input Document and Parameters:**
