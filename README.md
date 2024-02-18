@@ -1,6 +1,7 @@
 # SummarEase.Ai
 
 Welcome to the SummarEase.Ai GitHub repository! This project is a Streamlit web application designed for document summarization using OpenAI's language models.
+-[Website](https://summareaseai-vg2dbjk6ma5ecyo7vw6gb3.streamlit.app/)
 
 ## Table of Contents
 - [Overview](#overview)
