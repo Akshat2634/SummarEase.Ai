@@ -10,7 +10,7 @@ from langchain.chains.summarize import load_summarize_chain
 from langchain_openai import ChatOpenAI
 
 # Load environment variables from .env file
-load_dotenv(".gitignore/.env")
+load_dotenv()
 
 # Set the OpenAI API key
 openai.api_key = os.getenv("OPENAI_API_KEY")
