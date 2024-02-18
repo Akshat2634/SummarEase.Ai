@@ -4,3 +4,4 @@ python-dotenv
 langchain_community
 langchain
 langchain_openai
+langchain_community.document_loaders
